@@ -150,7 +150,7 @@ isValid() -> actual validation logic
    •	Method-level security (@PreAuthorize, @Secured)
    •	Password encoding (BCrypt)
 
-CSRF -> cross site request forgery
+
 
 
 
