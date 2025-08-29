@@ -77,3 +77,12 @@ every commit will have message, timestamp, author, unique hash
 record changes to history
 command -> git commit -m ...
 
+Commit types:
+
+* feat -> new feature
+* fix -> bug fix
+* docs -> documentation
+* style -> code style changes
+* refactor -> code refactoring w/o behavior change
+* test -> add/fix tests
+* chore -> build tasks, configs etc.
