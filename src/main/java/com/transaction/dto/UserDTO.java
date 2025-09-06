@@ -20,4 +20,5 @@ public class UserDTO {
     //@Email(message = "Invalid email format")
     private String email;
     private Timestamp registeredAt;
+    private String day;
 }
